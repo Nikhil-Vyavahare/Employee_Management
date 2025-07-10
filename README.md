@@ -121,7 +121,10 @@ Enter choice:
 
 ---
 
-## 🧑‍💻 Author
+## 🧑‍💻 Authors
 
-Developed by **[Nikhil Vyavahare]**  
+Developed by 
+1) VYAVAHARE NIKHIL RAJU
+2) RANGREZ SANIYA PARVEEN F AHMAD
+3) JADHAV TRUPTI ASHOK
 Project Type: Educational / Practice  
