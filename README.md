@@ -122,10 +122,10 @@ Enter choice:
 ---
 ---
 
-## Output
+## 📸 Sample Output Screenshot
+
 ![Employee Management](https://github.com/Nikhil-Vyavahare/Employee_Management/blob/920283ac8db3ef61419ab2264602a069e0609da5/Screenshot%20(118).png)
 ![Employee Management](https://github.com/Nikhil-Vyavahare/Employee_Management/blob/920283ac8db3ef61419ab2264602a069e0609da5/Screenshot%20(119).png)
-
 
 ---
 
